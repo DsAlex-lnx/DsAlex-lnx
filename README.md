@@ -3,7 +3,7 @@
 
 <p align="justify"> 
   Hi, I'm Alex!
- <br>I'm a keen enthusiast in the realm of <strong>Data Science</strong> and have recently earned a degree in Information Systems from IFCE. I'm embarking on the early stages of my data scientist journey, driven to translate my theoretical expertise into hands-on experience.
+ <br>I graduated in Information Systems from IFCE and now serve as a professor of Methodology and Computing Techniques at IFCE Cedro. I’m also specializing in Data Science, where I’m looking to bridge the gap between theory and practice, as I embark on my journey to become a data scientist.
 </p>
 
 <p align="left">
